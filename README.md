@@ -7,4 +7,7 @@ library used in this project :
         pip install python-telegram-bot
 
         pip install requests
+
+screenshot examle :
+
 ![Alt Text](https://github.com/ouassimdj/telegram-bot-to-get-weather-using-python/blob/9e2a0f312fad5826ad0f753c5975830c7ad03d78/bot.jpg)
