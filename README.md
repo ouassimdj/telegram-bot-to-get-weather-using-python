@@ -5,7 +5,7 @@
 library used in this project :
 
 >        pip install python-telegram-bot
-       --------------------
+         
 >        pip install requests
 
 screenshot example :
