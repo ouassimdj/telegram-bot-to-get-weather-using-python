@@ -1,2 +1,4 @@
-# telegram bot to get weather using python
- 
+-----------this bot was made by Ouassim Djebbes using python-----------
+
+you can use this script for non commersial use
+
