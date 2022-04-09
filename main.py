@@ -2,7 +2,8 @@ from tokenize import Token
 import telegram.ext
 import requests, json
 
-#use pip install python-telegram-bot
+#pip install python-telegram-bot
+#pip install requests
 
 with open('token.txt', 'r') as f:
     token = f.read()
