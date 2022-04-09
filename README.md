@@ -1,4 +1,4 @@
-<h1>-----------this bot was made by Ouassim Djebbes using python-----------</h1>
+<h4>--this bot was made by Ouassim Djebbes using python--</h4>
 
              you can use this script for non commercial use 
 
