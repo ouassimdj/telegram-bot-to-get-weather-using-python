@@ -2,7 +2,7 @@
 
              you can use this script for non commercial use 
 
-libarary used 
+library used in this project :
 
         pip install python-telegram-bot
 
